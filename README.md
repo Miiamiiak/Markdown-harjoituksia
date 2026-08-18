@@ -18,11 +18,12 @@ Lainaukset
 >teksti
 >>teksti
 
-Numeroidut listat
+#Numeroitu lista
 1. asia0
 2. asia1
 3. asia2
 
+#numeroimaton lista
 * asia0
 * asia1
 * asia2
@@ -37,6 +38,7 @@ Numeroidut listat
   
 
 Linkki 
+<a href=https://github.com/Miiamiiak/Markdown-harjoituksia/edit/main/README.md> tässä linkki
 [Linkin nimi](https://github.com/Miiamiiak/Markdown-harjoituksia/edit/main/README.md) 
 
 
