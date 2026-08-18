@@ -20,8 +20,7 @@ Numeroidut listat
 2. teksti
 3. teksi
 
-Luettelot
-
+Luettelot:
 -teksti
 +teksti
 *teksti
