@@ -34,7 +34,10 @@ Lainaukset
 
 # Boldattu teksti 
 <strong> Boldattu teksti1 </strong>
-**boldattu teksti2** tai __boldattu teksti 3__
+
+**boldattu teksti2** 
+
+__boldattu teksti 3__
 
 
 
