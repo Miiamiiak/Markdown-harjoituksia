@@ -41,7 +41,7 @@ __boldattu teksti 3__
 
 #Emoji
 
-This is so funny! :joy: :Sad: :eggplant:
+This is so funny! :joy:  :eggplant:
 
 
 
