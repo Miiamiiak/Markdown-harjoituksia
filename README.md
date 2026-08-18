@@ -21,7 +21,7 @@ Numeroidut listat
 3. asia2
 
 Linkki
-(Otsikko) [https://github.com/Miiamiiak/Markdown-harjoituksia/edit/main/README.md] 
+[Otsikko] (https://github.com/Miiamiiak/Markdown-harjoituksia/edit/main/README.md) 
 
 
 
