@@ -8,9 +8,6 @@
 Testi
 
 
-Lihavointi 
-**teksti** tai __teksti__
-
 Kursivointi 
 *teksti* tai _teksti_
 
@@ -36,7 +33,9 @@ Lainaukset
 
 
 # Boldattu teksti 
-<strong> Boldattu teksti </strong>
+<strong> Boldattu teksti1 </strong>
+**boldattu teksti2** tai __boldattu teksti 3__
+
 
 
 
