@@ -39,6 +39,10 @@ Lainaukset
 
 __boldattu teksti 3__
 
+#Emoji
+
+This is so funny! :joy: :Sad: :eggplant:
+
 
 
 
