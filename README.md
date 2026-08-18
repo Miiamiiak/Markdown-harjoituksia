@@ -20,8 +20,9 @@ Numeroidut listat
 2. asia1
 3. asia2
 
-Linkki //
-[Otsikko] (https://github.com/Miiamiiak/Markdown-harjoituksia/edit/main/README.md) 
+Linkki 
+[otsikko] (https://github.com/Miiamiiak/Markdown-harjoituksia/edit/main/README.md) 
+
 
 
 
