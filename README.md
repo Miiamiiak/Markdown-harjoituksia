@@ -5,22 +5,22 @@
 Testi
 
 
-###Lihavointi 
+Lihavointi 
 **teksti** tai __teksti__
 
-###Kursivointi 
+Kursivointi 
 *teksti* tai _teksti_
 
-###Lainaukset
+Lainaukset
 >teksti
 >teksti
 
-###Numeroidut listat
-1. asia
-2. asia
-3. asia
+Numeroidut listat
+1. asia1
+2. asia2
+3. asia3
 
-###Luettelot
+Luettelot
 -asia0
 -asia1
 -asia2
