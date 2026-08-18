@@ -8,38 +8,38 @@
 Testi
 
 
-# Kursivointi 
+### Kursivointi 
 *teksti* tai _teksti_
 
-# Lainaukset
+### Lainaukset
 >teksti
 >>teksti
 
-# Numeroitu lista
+### Numeroitu lista
 1. asia0
 2. asia1
 3. asia2
 
-# numeroimaton lista
+### numeroimaton lista
 * asia0
 - asia1
 + asia2
   
 
-# Linkki 
+### Linkki 
 <a href=https://google.com> tästä pääsee googleen
 
 [Tästä pääsee oikeesti googleen](https://google.com) 
 
 
-# Boldattu teksti 
+### Boldattu teksti 
 <strong> Boldattu teksti1 </strong>
 
 **boldattu teksti2** 
 
 __boldattu teksti 3__
 
-# Emoji
+### Emoji
 
 This is so funny! :joy:  :eggplant:
 
