@@ -8,10 +8,10 @@
 Testi
 
 
-Kursivointi 
+# Kursivointi 
 *teksti* tai _teksti_
 
-Lainaukset
+# Lainaukset
 >teksti
 >>teksti
 
@@ -41,7 +41,7 @@ __boldattu teksti 3__
 
 # Emoji
 
-This is so silly! :joy:  :eggplant:
+This is so funny! :joy:  :eggplant: :waterfall:
 
 
 
