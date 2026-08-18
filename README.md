@@ -39,9 +39,9 @@ Lainaukset
 
 __boldattu teksti 3__
 
-#Emoji
+# Emoji
 
-This is so funny! :joy:  :eggplant:
+This is so silly! :joy:  :eggplant:
 
 
 
