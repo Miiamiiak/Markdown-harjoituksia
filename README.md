@@ -5,14 +5,27 @@
 Testi
 
 
-Lihavointi
+Lihavointi 
 **teksti** tai __teksti__
 
-Kursivointi
+Kursivointi 
 *teksti* tai _teksti_
 
+Lainaukset
+>teksti
+>teksti
+
+Numeroidut listat
+1. teksti
+2. teksti
+3. teksi
+
 Luettelot
+-teksti
 +teksti
+*teksti
+
+
 
 
 
