@@ -37,7 +37,7 @@ Numeroidut listat
   
 
 Linkki 
-[Linkin nimi] (https://github.com/Miiamiiak/Markdown-harjoituksia/edit/main/README.md) 
+[Linkin nimi](https://github.com/Miiamiiak/Markdown-harjoituksia/edit/main/README.md) 
 
 <a href="https://github.com/Miiamiiak/Markdown-harjoituksia/edit/main/README.md"> 
 
