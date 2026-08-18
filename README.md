@@ -16,7 +16,7 @@ Kursivointi
 
 Lainaukset
 >teksti
->teksti
+>>teksti
 
 Numeroidut listat
 1. asia0
