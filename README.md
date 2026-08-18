@@ -16,22 +16,12 @@ Lainaukset
 >teksti
 
 Numeroidut listat
-1. asia1
-2. asia2
-3. asia3
+1. asia0
+2. asia1
+3. asia2
 
-Luettelot
--asia0
--asia1
--asia2
-
-*asia0
-*asia1
-*asia2
-
-+asia0
-+asia1
-+asia2
+Linkki
+(Otsikko) [https://github.com/Miiamiiak/Markdown-harjoituksia/edit/main/README.md] 
 
 
 
