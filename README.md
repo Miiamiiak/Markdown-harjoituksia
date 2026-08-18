@@ -35,6 +35,9 @@ Lainaukset
 [Tästä pääsee oikeesti googleen](https://google.com) 
 
 
+# Boldattu teksti 
+<strong> Boldattu teksti </strong>
+
 
 
 
